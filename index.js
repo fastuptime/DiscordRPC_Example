@@ -17,7 +17,7 @@ async function setActivity() {
         instance: false,
         buttons: [
             { label: "FastUptime", url: "https://fastuptime.com/" },
-            { label: ":heart_hands: Github", url: "https://github.com/fastuptime" }
+            { label: "💕 Github", url: "https://github.com/fastuptime" }
         ]
     });
 }
